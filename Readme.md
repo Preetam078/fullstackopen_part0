@@ -1,0 +1,1 @@
+The repo is all about the descriptive differences between the traditional web app and the single page app (how the thinks are going on in the network tab)
